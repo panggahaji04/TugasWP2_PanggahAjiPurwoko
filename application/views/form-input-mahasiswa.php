@@ -73,6 +73,7 @@
                     <th>:</th>
                     <td>
                         <select name="agama" id="agama">
+                            <option value="Pilih Agama">--Pilih Agama--</option>
                             <option name="agama" id="agama" value="Islam">Islam</option>
                             <option name="agama" id="agama" value="Kristen">Kristen</option>
                             <option name="agama" id="agama" value="Katolik">Katolik</option>
